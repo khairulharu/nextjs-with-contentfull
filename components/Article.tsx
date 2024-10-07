@@ -2,7 +2,6 @@ import React from "react";
 import Image from "next/image";
 import { Post } from "@/data/articleData";
 
-
 interface ArticleProps {
      post: Post;
    }
